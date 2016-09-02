@@ -26,7 +26,7 @@
 
 @end
 
-const CGFloat kHTHorizontalSelectionListHorizontalMargin = 10;
+const CGFloat kHTHorizontalSelectionListHorizontalMargin = 0;
 const CGFloat kHTHorizontalSelectionListTrimHeight = 0.5;
 const CGFloat kHTHorizontalSelectionListLabelCellInternalPadding = 15;
 
